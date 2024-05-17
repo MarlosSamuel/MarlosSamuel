@@ -3,7 +3,8 @@
 I started studying programming and I want to be a great developer 🌟
 
 #Ferramentas que uso / estou aprendendo
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, java,python,mysql)](https://skillicons.dev)
+
+[![MySkills](https://skillicons.dev/icons?i=js,html,css, java,python,mysql)](https://skillicons.dev)
 
 
 ## ⭐ GitHub Stats
