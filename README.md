@@ -1,5 +1,6 @@
 ## Hello World, im Marlos, be very welcome!
-💻 I am a computer science student, passionate about technology, I started studying programming and I want to be a great developer 🌟
+💻 I am a computer science student, passionate about technology, 
+I started studying programming and I want to be a great developer 🌟
 
 
 ## ⭐ GitHub Stats
