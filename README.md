@@ -1,4 +1,4 @@
-## Hello World,im Marlos,be very welcome!
+## Hello World, im Marlos, be very welcome!
 
 <!--
 **MarlosSamuel/MarlosSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
