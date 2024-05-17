@@ -1,5 +1,5 @@
 ## Hello World, im Marlos, be very welcome!
 
 ## ⭐ GitHub Stats
-[![Marlos GitHub stats](https://github-readme-stats.vercel.app/api?username=marlossamuel)]
+![Marlos GitHub stats](https://github-readme-stats.vercel.app/api?username=marlossamuel)
 
