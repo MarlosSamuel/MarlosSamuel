@@ -46,7 +46,7 @@
   </a>
   <a href="https://www.linkedin.com/in/marlos-carmo-7322742b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a><br>
   marlossh88@gmail.com
   <p align="center"><img  alt="java" height="15" width="18" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/gmail.png">
   <p align="center">
