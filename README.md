@@ -18,7 +18,7 @@
 ##
 
 <div align="center">
-  <strong>Mais usados:<strong></p>
+  <strong>Usados/Estudando:<strong></p>
 </div>
 
 <p>&nbsp;</p>
@@ -28,6 +28,8 @@
   <img  alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <i class="devicon-javascript-plain"></i>
+
 </p>
 </div>
 
