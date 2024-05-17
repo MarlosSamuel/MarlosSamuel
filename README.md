@@ -28,7 +28,9 @@
   <img  alt="java" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="mysql" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img alt="git" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img alt="JS" height="80" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="JS" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Python" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 </p>
 </div>
 
