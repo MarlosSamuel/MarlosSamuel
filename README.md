@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World, im Marlos, be very welcome!</h1>
 
-<p align="center"><strong>Sou um estudante da Ciência da Computação e progamador apaixonado por tecnologia, quero continuar a crescer na area me tornar um grande desenvolvedor de software.</strong></p>
+<p align=""><strong>Sou um estudante da Ciência da Computação e progamador apaixonado por tecnologia, quero continuar a crescer na area me tornar um grande desenvolvedor de software.</strong></p>
 
 ##
 
